@@ -2,7 +2,8 @@
 
 SmellScan-ts scans the Angular/TypeScript code for detecting design smells or violation design principals. The Angular/TypeScript code must follow OOP approach in order to find smells.
 
-The current version V0.1.0 can detect following 10 smells from the code:
+## Features
+Ddetects following 10 smells from the typescript code:
 - Imperative Abstraction
 - Unnecessary Abstraction
 - Deficient Encapsulation
@@ -23,6 +24,9 @@ The current version V0.1.0 can detect following 10 smells from the code:
 ![Open context menu](./assets/screen_1.png)
 
 ![Select Start SmellScan](./assets/screen_2.png)
+
+## Issue reporting
+- https://github.com/abhipsb/smellscan-ts
 
 ## VS Code version supported
 - V 1.56.0 or later
