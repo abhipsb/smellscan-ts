@@ -1,11 +1,11 @@
 # SmellScan-ts
 
-SmellScan-ts scans the Angular/TypeScript code for detecting design smells or violation design principals. The Angular/TypeScript code must follow OOP approach in order to find smells.
+SmellScan-ts scans the Angular/TypeScript code for detecting design smells or violations of design principals. The Angular/TypeScript code must follow OOP approach to find smells.
 
 Install VS Code extension from here: https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-ts
 
 ## Features
-Ddetects following 10 smells from the typescript code:
+Detects following 10 smells from the typescript code:
 - Imperative Abstraction
 - Unnecessary Abstraction
 - Deficient Encapsulation
@@ -13,7 +13,7 @@ Ddetects following 10 smells from the typescript code:
 - Cyclic Hierarchy
 - Deep Hierarchy
 - Multipath Hierarchy
-- Rebelious Hierarchy
+- Rebellious Hierarchy
 - Wide Hierarchy
 - Broken Modularization
 
@@ -21,7 +21,7 @@ Ddetects following 10 smells from the typescript code:
 
 - Select and Right click the folder in the EXPLORER on which you want to run the tool
 - Click on the 'Start SmellScan' menu option in context menu
-- A file named designSmells.csv will be generated with the repot
+- A file named designSmells.csv will be generated with the report
 
 ![Open context menu](./assets/screen_1.png)
 
@@ -35,5 +35,5 @@ Ddetects following 10 smells from the typescript code:
 
 ## Details and references
 - It's based on DesigniteJava https://www.designite-tools.com/designitejava/
-- The code is re-written from scratch in TypeScript for scanning TypeScript code.
+- The code is re-written from scratch in TypeScript for scanning the TypeScript code.
 - Refer http://www.designsmells.com/ to know more about design smells.
