@@ -6,16 +6,16 @@ Install VS Code extension from here: https://marketplace.visualstudio.com/items?
 
 ## Features
 Detects following 10 smells from the typescript code:
-- Imperative Abstraction
-- Unnecessary Abstraction
-- Deficient Encapsulation
-- Broken Hierarchy
-- Cyclic Hierarchy
-- Deep Hierarchy
-- Multipath Hierarchy
-- Rebellious Hierarchy
-- Wide Hierarchy
-- Broken Modularization
+- [Imperative Abstraction](https://www.tusharma.in/smells/IA.html)
+- [Unnecessary Abstraction](https://www.tusharma.in/smells/UA.html)
+- [Deficient Encapsulation](https://www.tusharma.in/smells/DE.html)
+- [Broken Hierarchy](https://www.tusharma.in/smells/BH.html)
+- [Cyclic Hierarchy](https://www.tusharma.in/smells/CH.html)
+- [Deep Hierarchy](https://www.tusharma.in/smells/DH.html)
+- [Multipath Hierarchy](https://www.tusharma.in/smells/MH2.html)
+- [Rebellious Hierarchy](https://www.tusharma.in/smells/RH.html)
+- [Wide Hierarchy](https://www.tusharma.in/smells/WH.html)
+- [Broken Modularization](https://www.tusharma.in/smells/BM.html)
 
 ## How to use
 
