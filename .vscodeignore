@@ -1,0 +1,8 @@
+src
+node_modules
+.vscode-test/
+*.vsix
+**/*.map
+**/*.csv
+*.csv
+.gitignore

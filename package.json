@@ -1,0 +1,62 @@
+{
+	"name": "smellscan-ts",
+	"displayName": "smellscan-ts",
+	"description": "Detects design smells from Angular/TypeScript code",
+	"version": "0.1.4",
+	"icon": "assets/icon.png",
+	"license": "LICENSE",
+	"publisher": "abhipsb",
+	"site": "https://github.com/abhipsb/",
+	"repository": "https://github.com/abhipsb/smellscan-ts",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"*"
+	],
+	"keywords": [
+		"typescript smells",
+		"design smells",
+		"quality assessment",
+		"design principal violations"
+	],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "smellscan.detectSmells",
+				"title": "Start SmellScan"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"when": "explorerResourceIsFolder",
+					"command": "smellscan.detectSmells",
+					"group": "smellscan"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"clean": "rimraf ./out/* ./dist/* *.vsix",
+		"vscode:prepublish": "npm run clean && webpack --mode production",
+		"compile": "tsc -p ./",
+		"lint": "eslint . --ext .ts,.tsx",
+		"watch": "tsc -watch -p ./"
+	},
+	"devDependencies": {
+		"@types/node": "^12.20.13",
+		"@types/vscode": "^1.56.0",
+		"@typescript-eslint/eslint-plugin": "^4.26.0",
+		"@typescript-eslint/parser": "^4.26.0",
+		"eslint": "^7.27.0",
+		"ts-loader": "^9.2.2",
+		"typescript": "^4.3.2",
+		"webpack": "^5.38.1",
+		"webpack-cli": "^4.7.0"
+	}
+}

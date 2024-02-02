@@ -37,3 +37,6 @@ Detects following 10 smells from the typescript code:
 - It's based on DesigniteJava https://www.designite-tools.com/designitejava/
 - The code is re-written from scratch in TypeScript for scanning the TypeScript code.
 - Refer http://www.designsmells.com/ to know more about design smells.
+
+# 🤝 Contributing
+Contributions, issues and feature requests are welcome!

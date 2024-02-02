@@ -1,0 +1,4 @@
+interface MetricExtractor
+{	
+	extractMetrics(): void;
+}
