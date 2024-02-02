@@ -1,5 +1,5 @@
 # 🤝 Contributing
-Contributions, issues and feature requests are welcome!
+New Feature Contributions and issues are welcome!
 
 # SmellScan-ts
 
