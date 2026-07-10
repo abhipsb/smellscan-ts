@@ -1,8 +1,16 @@
+# NOTICE #
+
+## A totally new [SmellScan-Pro](https://github.com/abhipsb/smellscan-pro) replaces SmellScan-ts. SmellScan-Pro is advanced, mature, built from scratch and does not inherit from SmellScan-ts.
+
+# Please install [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-pro)
+
+## This project is no longer maintained. There will be no further releases for SmellScen-ts.
+
 # 🕵️‍♀️ SmellScan-ts
 
 SmellScan-ts is a 🔧 tool designed to scan Angular/TypeScript code for the detection of design smells or violations of design principles. It is essential that the Angular/TypeScript code follows an Object-Oriented Programming (OOP) approach for the tool to effectively identify design smells.
 
-[Download the extension from here.](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-ts)
+[Download the SmellScan-ts from here.](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-ts)
 
 ## 🌟 Features
 
