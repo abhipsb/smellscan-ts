@@ -2,7 +2,7 @@
 
 ## A totally new [SmellScan-Pro](https://github.com/abhipsb/smellscan-pro) replaces smellscan-ts. SmellScan-Pro is the next-generation evolution of smellscan-ts, redesigned from scratch for modern TypeScript and Angular codebases.
 
-# Please install [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-pro)
+# Please install [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
 
 ## There will be no further releases for smellscan-ts.
 
