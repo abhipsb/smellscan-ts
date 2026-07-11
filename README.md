@@ -23,7 +23,7 @@
 **SmellScan-Pro understands how modern applications are structured—not just how the code looks.**
 
 If you are using smellscan-ts, we recommend switching to **SmellScan-Pro** for more context-aware and reliable design smell detection.
-# Please install [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-pro)
+# Please install [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
 
 # 🕵️‍♀️ smellscan-ts
 
@@ -77,7 +77,7 @@ smellscan-ts is based on DesigniteJava and has been rewritten from scratch in Ty
 ## 🔄 Change log
 
 ### Version 1.0.2 (2026-07-11)
-- NOTICE: Switch to [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smellscan-pro)
+- NOTICE: Switch to [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
 
 ### Version 1.0.0 (2024-04-30)
 - Added support for generating Sunburst chart for enhanced visualization.
