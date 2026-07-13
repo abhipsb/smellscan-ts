@@ -72,11 +72,11 @@ smellscan-ts supports VS Code version 1.88.0 or later. 🎯
 
 ## 📚 Additional Information
 
-smellscan-ts is based on DesigniteJava and has been rewritten from scratch in TypeScript for scanning TypeScript code. For more information about design smells, please visit [Design Smells](http://www.designsmells.com/).
+smellscan-ts is based on DesigniteJava and has been rewritten from scratch in TypeScript for scanning TypeScript code. For more information about design smells, please visit [Design Smells](https://www.tusharma.in/smells/index.html).
 
 ## 🔄 Change log
 
-### Version 1.0.2 (2026-07-11)
+### Version 1.0.2/3 (2026-07-11)
 - NOTICE: Switch to [SmellScan-Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
 
 ### Version 1.0.0 (2024-04-30)
